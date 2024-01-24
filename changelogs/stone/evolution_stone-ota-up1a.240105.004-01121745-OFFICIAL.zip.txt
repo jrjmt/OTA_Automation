@@ -1,8 +1,0 @@
-Changelogs
-----------
-----------
-
-- Fix offline charfing animation
-- Improve stability & smoothness
-- Set 120Hz by default
-- miscellaneous changes

@@ -1,5 +1,0 @@
-- Install MIUI 12.5.16.0.RKLMIXM prior installation.
-
-Changelog;
-- Evolution X 7.8 "Sisig".
-- April 2023 ASB.

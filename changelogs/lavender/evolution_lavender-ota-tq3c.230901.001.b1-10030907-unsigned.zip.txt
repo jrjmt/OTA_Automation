@@ -1,3 +1,0 @@
-HOTFIX
-- Fixed bt audio
-- Fixed FP doesn't appear for goodix fp users

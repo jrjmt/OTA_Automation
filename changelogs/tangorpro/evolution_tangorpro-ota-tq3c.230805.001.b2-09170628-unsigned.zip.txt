@@ -1,2 +1,0 @@
-Merge September 2023 security patches
-version: Update to 7.9.8 (Lugaw)

@@ -1,3 +1,0 @@
-Changeslog:
-- Initial official release
-- Feb security path
